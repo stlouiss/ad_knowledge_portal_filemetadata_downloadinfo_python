@@ -13,7 +13,7 @@ IMPORTANT:
 
 * Please visit [this page](https://github.com/stlouiss/ACLS_Humanities_eBook_Collection_Metadata_Curation) if you would like to learn more about that Michigan Publishing script.
 
-* REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS BY PROFESSIONAL CONTACTS AT SAGE BIONETWORKS. Please submit such requests to the email address listed at the bottom of the read_me file.
+* REQUESTS FOR INPUT AND/OR OUTPUT DATA will be considered on a case-by-case basis by professional contacts at Sage Bionetworks. Please submit such requests to the email address listed at the bottom of this READ_ME file.
 
 
 ## IN SUMMARY:
