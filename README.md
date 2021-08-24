@@ -16,7 +16,7 @@ IMPORTANT:
 
 ## IN SUMMARY:
 
-REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS.
+REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS BY MY PROFESSIONAL CONTACTS AT SAGE BIONETWORKS.
 
 This program pulls in values from select fields of two input CSV files, processes this information with a number of functions divided into Sections 1-3, and writes high-level overview information into three separate output CSV files.
 
