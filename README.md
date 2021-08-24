@@ -13,10 +13,10 @@ IMPORTANT:
 
 * Please visit [this page](https://github.com/stlouiss/ACLS_Humanities_eBook_Collection_Metadata_Curation) if you would like to learn more about that Michigan Publishing script.
 
+* REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS BY PROFESSIONAL CONTACTS AT SAGE BIONETWORKS. Please submit such requests to the email address listed at the bottom of the read_me file.
+
 
 ## IN SUMMARY:
-
-REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS BY PROFESSIONAL CONTACTS AT SAGE BIONETWORKS. Please submit such requests to the email address listed at the bottom of the read_me file.
 
 This program pulls in values from select fields of two input CSV files, processes this information with a number of functions divided into Sections 1-3, and writes high-level overview information into three separate output CSV files.
 
