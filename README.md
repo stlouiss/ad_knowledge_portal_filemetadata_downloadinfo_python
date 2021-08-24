@@ -16,6 +16,8 @@ IMPORTANT:
 
 ## IN SUMMARY:
 
+REQUESTS FOR INPUT AND/OR OUTPUT DATA WILL BE CONSIDERED ON A CASE-BY-CASE BASIS.
+
 This program pulls in values from select fields of two input CSV files, processes this information with a number of functions divided into Sections 1-3, and writes high-level overview information into three separate output CSV files.
 
 The output CSV files of this script will serve simply as springboards to more contextually informed conversations with stakeholders at Sage Bionetworks, drawing on their expert knowledge of the AD Knowledge Portal and the research communities it serves. It is in these conversations that we will establish key considerations regarding data context and inter-relationality to inform the scope of my preservation assessment research.
